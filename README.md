@@ -7,7 +7,7 @@ A Unified Framework and Study"](https://arxiv.org/abs/2603.24125)
 If you have any question please contact [Nour Bouchouchi](mailto:Nour.Bouchouchi@lip6.fr)
 
 #### Citation 
-
+```bibtex
 @article{bouchouchi2026alignment,
   title={Alignment Reduces Expressed but Not Encoded Gender Bias: A Unified Framework and Study},
   author={Bouchouchi, Nour and Laugel, Thibault and Renard, Xavier and Marsala, Christophe and Lesot, Marie-Jeanne and Detyniecki, Marcin},
@@ -15,4 +15,4 @@ If you have any question please contact [Nour Bouchouchi](mailto:Nour.Bouchouchi
   year={2026},
   url={https://arxiv.org/abs/2603.24125v2}
 }
-
+```
